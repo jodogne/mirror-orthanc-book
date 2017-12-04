@@ -16,6 +16,7 @@ General questions
    faq/features.rst
    faq/rest-samples.rst
    faq/proprietary.rst
+   faq/licensing.rst
 
 Features supported by Orthanc
 -----------------------------
